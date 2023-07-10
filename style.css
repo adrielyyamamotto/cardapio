@@ -53,6 +53,30 @@ h3 {
 }
 
 div {
-    position: relative;
+    display: inline-block;
+    margin-inline: -5px;
 }
 
+#entrada {
+    float: left;
+}
+
+#massa {
+    float: right;
+}
+
+#sopa {
+    float: left;
+}
+
+#sobremesa {
+    float: right;
+}
+
+#beb {
+    float: left;
+}
+
+#infos {
+    float: right;
+}
