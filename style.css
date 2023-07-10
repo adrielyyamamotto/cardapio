@@ -1,0 +1,58 @@
+body {
+    background-color: #4b0315;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.slogan {
+    text-align: center;
+    color: white;
+}
+
+.card {
+    text-align: center;
+    color: white;
+}
+
+.subt {
+    color: rgb(73, 72, 72);
+}
+
+.imag {
+    height: auto;
+    width: 350px;
+    border-radius: 10px;
+}
+
+.preço {
+    color: rgb(66, 65, 65);
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.tipo1 {
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0px;
+    height: auto;
+    width: 400px;
+    text-align: center;
+    margin: 20px;
+}
+
+h3 {
+    font-weight: bolder;
+    color: #4b0315;
+}
+
+div {
+    position: relative;
+}
+
