@@ -102,3 +102,14 @@ div {
     background-position: center;
     background-blend-mode: screen;
 }
+
+footer {
+    background-color: whitesmoke;
+    opacity: 80%;
+    color: #4b0315;
+    font-style: italic;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
